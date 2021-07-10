@@ -1,0 +1,721 @@
+@media all and (max-width:2000px) {
+    .admission-section .f-left img {
+        width: 100%;
+        height: 50rem;
+    }
+
+    .admission-section .f_right img {
+        width: 100%;
+        height: 43rem;
+    }
+
+    .top-top a {
+
+        top: 90%;
+
+    }
+}
+
+
+
+
+
+@media all and (max-width:1368px) {
+    .fix-width {
+        width: 110rem;
+        margin: auto;
+    }
+
+    html {
+        font-size: 9px;
+    }
+
+    .about-section .main_about .right .about-r {
+        background: #e7f4f6;
+        padding: 1.6rem 0rem;
+        margin: 1.5rem 0;
+    }
+
+    .news-section .flot .inner-divbox .left-div .image img {
+
+        height: 22.7rem;
+    }
+
+    .top-top a {
+
+        top: 96%;
+
+    }
+
+}
+
+@media all and (max-width:1068px) {
+    .fix-width {
+        width: 110rem;
+        margin: auto;
+    }
+
+    html {
+        font-size: 8px;
+    }
+
+    .banner .banner-n h2 {
+        font-size: 3.5rem;
+
+    }
+
+    .about-section .main_about .right .about-r {
+        background: #e7f4f6;
+        padding: 1.8rem 0rem;
+        margin: 1.5rem 0;
+    }
+
+    .top-top a {
+
+        top: 96%;
+
+    }
+}
+
+@media all and (max-width:968px) {
+    .fix-width {
+        width: 100rem;
+        margin: auto;
+    }
+
+    .news-section .flot .inner-divbox .left-div .image img {
+        height: 23.7rem;
+    }
+
+    .footer .subscribe .s_content .s_right .email {
+
+        padding: 0rem 1rem;
+        width: 30rem;
+
+    }
+
+    .about-section .main_about .right .about-r {
+        background: #e7f4f6;
+        padding: 2.2rem 1rem;
+        margin: 1.5rem 0;
+    }
+
+    .about-section .main_about .left .box .last img {
+        margin-top: 5rem;
+        margin-left: 5rem;
+    }
+
+    .about-section .main_about .left .box .last p {
+
+        margin-left: 5rem;
+    }
+
+    html {
+        font-size: 7px;
+    }
+
+    .banner .banner-n h2 {
+        font-size: 3.5rem;
+        line-height: 5rem;
+        margin-top: 5rem;
+    }
+
+    .banner .banner-n p {
+        color: #fff;
+    }
+
+    .banner {
+        position: relative;
+        z-index: 1;
+        overflow: hidden;
+        color: #fff;
+
+    }
+
+    .banner::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background: rgba(0, 0, 0, .5);
+        z-index: -1;
+    }
+
+    .about-section {
+        margin-top: 6rem !important;
+    }
+
+    .banner .banner-n {
+        width: 65%;
+
+    }
+
+    .top-top a {
+
+        top: 97%;
+
+    }
+
+
+}
+
+
+@media all and (max-width:750px) {
+    .fix-width {
+        width: 80rem;
+        margin: auto;
+    }
+
+    .footer .subscribe .s_content .s_right .submit {
+
+        margin-left: 17.5rem;
+
+        margin-top: 3rem;
+    }
+
+    .footer .subscribe .s_content .s_right .email {
+        width: 26rem;
+    }
+
+    .subject .card-div {
+
+        width: 50%;
+    }
+
+    .course-section .card {
+
+        width: 50%;
+
+    }
+
+    .footer {
+
+        height: 68rem;
+
+    }
+
+    .footer .subscribe .s_content .s_right .email {
+        width: 24rem;
+
+    }
+
+    .testomonial .flot .inner {
+        float: left;
+        width: 100%;
+    }
+
+    .news-section {
+
+        height: 191rem;
+
+    }
+
+    .news-section .flot {
+        float: left;
+        width: 100%;
+    }
+
+    .news-section .right-div {
+        float: right;
+        width: 100%;
+        position: relative;
+    }
+
+    .about-section .main_about .left {
+        width: 100%;
+        margin: auto;
+        padding-left: 0 !important;
+    }
+
+    .about-section .main_about .right {
+        width: 100%;
+        margin-top: 6rem;
+    }
+
+    .about-section .main_about .left .box .last img {
+        margin-top: 5rem;
+        margin-left: 2rem;
+    }
+
+    .about-section .main_about .left .box .last p {
+
+        margin-left: 2rem;
+    }
+
+    .faq-section .f-left {
+        float: left;
+        width: 100%;
+        background: #f9f8f8;
+    }
+
+    .faq-section .f_right {
+        float: right;
+        width: 100%;
+        /* margin: ; */
+        margin-top: 5rem;
+    }
+
+    html {
+        font-size: 7px;
+    }
+
+    .banner {
+
+        padding: .5rem 0rem 22rem 0rem;
+
+    }
+
+    .banner .banner-n h2 {
+        font-size: 2.8rem;
+        line-height: 5rem;
+        margin-top: 5rem;
+    }
+
+    .banner .banner-n p {
+        color: #fff;
+        font-size: 1.2rem;
+    }
+
+    .drop-menu {
+        display: none !important;
+    }
+
+    .menuber .menuber-n .main-menu ul {
+        display: none;
+        position: absolute;
+        background: #ffff;
+        width: 100% !important;
+        left: 0 !important;
+        text-align: left;
+        padding: 2rem;
+        top: 100%;
+    }
+
+    .menuber .menuber-n .main-menu li {
+        display: block !important;
+        transition: .4s;
+        margin-right: 5rem;
+
+    }
+
+    .menuber .menuber-n .main-menu li:hover {
+        background: rgb(255, 247, 247);
+    }
+
+    .menuber .menuber-n .main-menu ul li a {
+
+        padding-left: 1rem;
+    }
+
+    .topber-n.clearfix {
+        padding: 1rem 0rem 1.5rem 0rem;
+    }
+
+    .topber .topber-n .left {
+        width: 100%;
+        text-align: center;
+        border: 1px solid #ddd;
+        margin-bottom: 1rem;
+    }
+
+    .topber .topber-n .right {
+        float: right;
+        width: 100%;
+        text-align: center;
+    }
+
+    .menuber .menuber-n .right {
+        float: left;
+        width: 84%;
+        padding: 3rem 0;
+        text-align: right;
+    }
+
+    #menu {
+        transition: .6s ease;
+    }
+
+    #menu:checked+ul {
+        display: block;
+
+    }
+
+    .menuber .menuber-n .main-menu ul li {
+        display: inline-block;
+        padding: 2rem 2rem;
+        position: relative;
+    }
+
+    .admission-section .f-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .admission-section .f-left img {
+        width: 70%;
+        margin-bottom: 6rem;
+    }
+
+    .admission-section .f_right {
+        float: right;
+        width: 100%;
+        background: #f3f8fc;
+        text-align: center;
+
+    }
+
+    .faq-section {
+        padding: 1rem 0;
+        padding-bottom: 5rem;
+    }
+
+    .admission-section .f_right .inner p {
+
+        margin: auto;
+    }
+
+    .admission-section .f_right .inner {
+        padding: 4.8rem 8rem;
+    }
+
+    .top-top a {
+
+        top: 96%;
+
+    }
+
+}
+
+@media all and (max-width:568px) {
+    .fix-width {
+        width: 60rem;
+        margin: auto;
+    }
+
+    .top-top a {
+
+        top: 95%;
+
+    }
+
+    .about-section .main_about .left .box .image img {
+        margin-top: 5rem;
+        width: 12rem;
+    }
+
+    .footer .subscribe .s_content .s_left h4 {
+
+        margin-top: 3rem;
+    }
+
+    .footer .subscribe .s_content .s_left h2 {
+
+        font-size: 2rem;
+    }
+
+    .footer .subscribe .s_content .s_right .email {
+        width: 23rem;
+        padding: 0rem 2rem;
+    }
+
+    .footer .subscribe .s_content .s_right .submit {
+
+        margin-left: 17.5rem;
+
+        margin-top: 3rem;
+    }
+
+    .course-section .card {
+
+        width: 100%;
+
+    }
+
+    .faka_bottom_section {
+        padding: 1rem 0;
+        padding-bottom: 5rem;
+    }
+
+    .tytle {
+        /* padding: 6rem 1rem; */
+        padding-bottom: 6rem;
+    }
+
+    html {
+        font-size: 6px;
+    }
+
+    .banner {
+
+        padding: .5rem 0rem 17rem 0rem;
+
+    }
+
+    .about-section .main_about .right {
+
+        margin-bottom: 5rem;
+    }
+
+    .subject .card-div {
+
+        width: 100%;
+    }
+
+    .inner {
+        margin-bottom: 3rem;
+        padding-left: 7rem;
+    }
+
+    .rr {
+        padding-left: 0 !important;
+    }
+
+    .footer .footer_item .footer_content {
+        float: left;
+        width: 50%;
+    }
+
+    .footer {
+
+        height: 98rem;
+
+    }
+
+    .footer .footer-bottom .flot .div1 {
+        float: left;
+        width: 50%;
+    }
+
+    .footer .footer-bottom .flot .div2 {
+        float: left;
+        width: 50%;
+    }
+
+    .footer .footer-bottom .flot .div3 {
+        float: left;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .footer .footer-bottom .flot .div1 .f-inner {
+        text-align: left;
+        padding-left: 8rem;
+    }
+
+    .team-section .flot .box {
+        width: 100%;
+        float: left;
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover .hover_div h4 {
+
+        font-size: 3.3rem;
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover::after {
+
+        transform: scale(.8);
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover .hover_div i {
+
+        font-size: 2.5rem;
+    }
+
+    .team-section .flot .box .inner-divbox .image .hover_div p {
+        font-size: 2.5rem;
+    }
+
+    .footer .footer_item .footer_content .inner ul li a i {
+        font-size: .5rem;
+        color: #2abae6;
+        position: relative;
+        top: -0.2rem;
+        margin-right: .7rem;
+    }
+
+    .footer .footer-bottom .flot .div3 .f-inner {
+        text-align: center;
+        margin-top: 1rem;
+    }
+}
+
+@media all and (max-width:410px) {
+    .fix-width {
+        width: 55rem;
+        margin: auto;
+    }
+
+    html {
+        font-size: 6px;
+    }
+
+    .banner .banner-n h2 {
+        font-size: 2.3rem;
+        line-height: 4rem;
+
+    }
+
+    .banner {
+
+        padding: 0rem 0rem 13rem 0rem;
+
+    }
+
+    .about-section .main_about .right {
+
+        margin-bottom: 5rem;
+    }
+
+    .admission-section .f-left img {
+        width: 80%;
+        margin-bottom: 6rem;
+    }
+
+    .faq-section {
+        padding: 1rem 0;
+        padding-bottom: 5rem;
+    }
+
+    .footer .subscribe .s_content .s_left {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer .subscribe .s_content .s_right {
+        float: right;
+        width: 100%;
+        margin-top: 3.5rem;
+        text-align: center;
+    }
+
+    .footer .subscribe .s_content .s_right .submit {
+        margin-left: -0.5rem;
+
+    }
+
+    .footer .subscribe {
+        padding-bottom: 2rem;
+    }
+
+    .news-section {
+
+        padding-top: 5rem;
+        padding-bottom: 0;
+
+    }
+
+    .footer .subscribe .s_content .s_right {
+
+        margin-top: 0.5rem;
+
+    }
+
+    .footer {
+
+        height: 110rem;
+
+    }
+
+    .rr {
+        padding-left: 0 !important;
+    }
+
+    .inner {
+        margin-bottom: 3rem;
+        padding-left: 6rem;
+    }
+
+    .footer .footer-bottom .flot .div1 .f-inner {
+        text-align: left;
+        padding-left: 5rem;
+    }
+
+    .team-section .flot .box {
+        width: 100%;
+        float: left;
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover .hover_div h4 {
+
+        font-size: 3rem;
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover::after {
+
+        transform: scale(.8);
+    }
+
+    .team-section .flot .box .inner-divbox .image:hover .hover_div i {
+
+        font-size: 2rem;
+    }
+
+    .team-section .flot .box .inner-divbox .image .hover_div p {
+        font-size: 2rem;
+    }
+
+    .footer .footer_item .footer_content .inner ul li a i {
+        font-size: .5rem;
+        color: #2abae6;
+        position: relative;
+        top: 0rem;
+        margin-right: .7rem;
+    }
+
+    .footer .subscribe .s_content .s_right .submit {
+
+        font-size: 1.6rem;
+    }
+
+    .footer .subscribe .s_content .s_right .submit {
+        width: 10rem;
+        height: 5rem;
+        position: relative;
+        top: -2px;
+    }
+
+    .footer .subscribe {
+
+        position: relative;
+        top: -86px;
+    }
+
+    .footer .footer-bottom .flot .div2 .f-inner p {
+
+        font-size: 1.2rem;
+
+    }
+
+    .menuber .menuber-n .right .flaticon-bag {
+        font-size: 2.2rem;
+        padding: 0 1.5rem;
+    }
+
+    .menuber .menuber-n .right .flaticon-bag {
+
+        font-size: 2.2rem;
+        /* padding: 0 1.5rem; */
+        padding-top: -8.7rem;
+        padding-top: 0rem;
+        display: inline-block;
+        position: relative;
+        top: 0.3rem;
+
+    }
+
+    .menuber .menuber-n .right .fa-search {
+        font-size: 2.2rem;
+        padding-right: 1.5rem;
+        position: relative;
+        top: 0.3rem;
+    }
+
+    .hover-icon:hover .h-main {
+
+        top: 273%;
+    }
+}
